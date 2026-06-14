@@ -1,4 +1,4 @@
-# Pavlov-Internal
+# Pavlov Internal
 Preview: https://streamable.com/42bi33
 ## Features
 - Silent Aimbot (Uses gun muzzle for targeting)
