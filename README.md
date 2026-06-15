@@ -1,5 +1,5 @@
 # Pavlov Internal
-Preview: https://streamable.com/42bi33
+Showcase: [Preview](https://youtu.be/bUD7thJ8eQs)
 ## Features
 - Silent Aimbot (Uses gun muzzle for targeting)
 - Bullet TP (Teleport's gun muzzle to target player head)
